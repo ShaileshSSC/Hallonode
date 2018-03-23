@@ -1,1 +1,1 @@
-console.log("hallo node");
+console.log(process.argv);
